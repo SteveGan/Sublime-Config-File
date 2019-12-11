@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"ayu",
+		"Emmet",
+		"Git",
+		"Package Control",
+		"Sass",
+		"SyncedSideBar",
+		"Theme - Afterglow",
+		"Theme - One Dark"
+	]
+}
